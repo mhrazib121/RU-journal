@@ -1,0 +1,56 @@
+.header-section{
+    display: flex;
+}
+.banner{
+    background-image: url(./Images/tryuhfrd5eyfuy.jpg);
+    background-attachment: fixed;
+    background-position: top;
+    background-size: 130vw 100vh;
+    background-repeat: no-repeat;
+}
+.banner-size{
+    padding: 130px 0px;
+}
+.logo img{
+    width: 40%;
+}
+
+.middle-sction{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.541);
+    padding: 40px;
+    border-radius: 15px;
+}
+.middle-sction p{
+    font-size: 20px;
+}
+.issn{
+    margin-left: auto;
+    color: white;
+    text-align: center;
+}
+.search-position{
+    /* position: relative; */
+    display: flex;
+    justify-content: center;
+}
+.search-position input{
+    width: 350px;
+}
+.na-text li{
+    margin-left: auto;
+    margin-right: auto;
+}
+.drop-design{
+    margin-bottom: 2px;  
+}
+.na-link{
+    text-decoration: none;
+    color: black;
+}
+.bacground{
+    background-color: rgba(2, 2, 34, 0.815);
+}
